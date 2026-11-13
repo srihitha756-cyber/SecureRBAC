@@ -1,0 +1,8 @@
+flask>=3.0
+argon2-cffi>=23.1
+numpy
+pandas
+scikit-learn
+joblib
+reportlab
+pytest
